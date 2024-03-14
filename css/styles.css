@@ -1,0 +1,55 @@
+<style>
+        body{
+            background-color: #f3f3f3;
+        }
+        .custom-bg {
+            background-image: url('../img/landing.png');
+            background-size: cover !important;
+            background-position: center !important;
+        }
+        .custom-btn {
+            background-color: white;
+            color: black;
+            border-radius: 0; /* Square edges */
+        }
+        .nav-logs{
+            width: 5px; /* Adjust image width */
+            margin-right: 30px; 
+        }
+        .rounded-corners {
+        border-radius: 10px; /* Adjust the value to control the roundness of the corners */
+        }
+        .custom-btn {
+        height: 50px; /* Adjust the height as needed */
+        background-color: black;
+        color: white;
+        }
+        .big-icon {
+            font-size: 2rem; /* Adjust the size of the icon as needed */
+            display: flex;
+            justify-content: center;
+            align-items: center;        }
+        .icon-text {
+            margin-top: 10px; /* Add margin between the icon and the text */
+        }
+        .card-icon {
+            font-size: 2rem;
+            color: #FFFFFF; /* White color */
+            background-color: #CBCBCB; /* Grey color */
+            border-radius: 100%; /* Make it circular */
+            padding: 10px; /* Adjust padding as needed */
+            width: 50px;
+    height: 50px;
+        }
+        .card-text {
+            color: #6c757d; /* Grey color for text */
+        }
+        .custom-btn-landing{
+            background-color: white;
+            color: black;
+            border-radius: 0; /* Square edges */
+        }
+        .footer-icon{
+            text-decoration: none; 
+        }
+    </style>
